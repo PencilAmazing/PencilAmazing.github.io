@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Selecting texture per face"
+title: "Selecting texture per face in raylib"
 subtitle: "Simple shader and some code for raylib"
 tags: raylib
 ---
